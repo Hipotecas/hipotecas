@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @bt-moon
-- 👀 I’m interested in javasript
+- 👀 I’m interested in javascript
 - 🌱 I’m currently learning front end engineering
 - 💞️ I’m looking to collaborate on javascript project
 - 📫 How to reach me kisoua@outlook.com
