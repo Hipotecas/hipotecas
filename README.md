@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @bt-moon
+- 👋 Hi, I’m @hipotecas
 - 👀 I’m interested in javascript
 - 🌱 I’m currently learning front end engineering
 - 💞️ I’m looking to collaborate on javascript project
